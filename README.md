@@ -26,3 +26,16 @@
       </td>
     </tr>
   </table>
+
+
+  
+## What I'm Doing
+
+- 🔭 Working on .Net Core
+- 🌱 Learning Asp .Net & more
+- 📫 How to contact me: https://linkedin/hassandegem Linkedin
+
+Support ChatCool on KoFi:
+
+
+
