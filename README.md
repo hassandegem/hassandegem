@@ -31,7 +31,7 @@
   
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/hassandegem"><img src="https://skillicons.dev/icons?i=visualstudio,vscode"> </a> </p>
+<p align="left"> <a href="https://github.com/hassandegem"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,jquery,cpp,dotnet,"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -61,7 +61,7 @@
 
 - 🔭 Working on .Net Core
 - 🌱 Learning Asp .Net & more
-- 📫 How to contact me: https://linkedin/hassandegem Linkedin
+- 📫 How to contact me: https://linkedin/hassandegem <p align="left"><img src="https://skillicons.dev/icons?i=linkedin"> </a> </p>
 
 Support ChatCool on KoFi:
 
