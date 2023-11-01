@@ -22,7 +22,7 @@
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/hassandegem"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/hassandegem"> <img src="https://komarev.com/ghpvc/?username=hassandegem&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
